@@ -7,6 +7,8 @@ public class Boletim_estudantil {
 		double nota_A2;
 		boolean aprovado;
 		
+		
+		
 		nota_A1 = 9;
 		nota_A2 = 8.3;
 		
@@ -20,18 +22,18 @@ public class Boletim_estudantil {
 				System.out.println("Nota final: " + media);
 				
 			}
-				if(media>= 8) {
+			if(media>= 8) {
 					
-					aprovado = true;
-					System.out.println("Parabéns você foi aprovado com honra ao mérito!");
-					System.out.println("Nota final: " + media);
+				aprovado = true;
+				System.out.println("Parabéns você foi aprovado com honra ao mérito!");
+				System.out.println("Nota final: " + media);
 					
 				}
-					if(media<6) {
+			if(media<6) {
 						
-						aprovado = false;
-						System.out.println("Você foi reprovado");
-						System.out.println("Nota final: " + media);
+				aprovado = false;
+				System.out.println("Você foi reprovado");
+				System.out.println("Nota final: " + media);
 				}
 			}
 		}
