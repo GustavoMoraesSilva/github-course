@@ -1,6 +1,6 @@
 # Githu
 
-Git course
+Git course - Curso de Git e GitHub
 
 Este é um repositório teste para aprender como o Git funciona
 
