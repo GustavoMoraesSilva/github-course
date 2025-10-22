@@ -1,4 +1,4 @@
-# Githu
+# Github
 
 Git course - Curso de Git e GitHub
 
